@@ -1,0 +1,11 @@
+infrastructures
+energy
+financials
+consumer-cyclicals
+technology
+industrials
+consumer-non-cyclicals
+transportation-logistic
+healthcare
+basic-materials
+properties-real-estate
